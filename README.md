@@ -1,0 +1,2 @@
+# SetupCurserAIForXcodeProjects
+CurserAISetupAndUse
